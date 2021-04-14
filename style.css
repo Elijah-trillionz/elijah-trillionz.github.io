@@ -239,7 +239,10 @@ footer a:hover {
   font-family: 'Montserrat', sans-serif;
   line-height: 1.5;
 }
-
+  .code-2 {
+    font-size: 60px;
+    color: #666;
+  }
 /* other pages */
 
 @media screen and (max-width: 700px) {
